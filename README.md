@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy 16 Months!</title>
+  <title>Happy 16 Months of Love 😘!</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -87,10 +87,10 @@
   </style>
 </head>
 <body>
-  <h1>Happy 16 Months, Babe! 🦫</h1>
+  <h1>Happy 16 Months, LUVV! 🦫</h1>
   <p>Play to catch the capybara and win a surprise!</p>
   <div id="gameArea">
-    <img id="capybara" src="https://i.postimg.cc/PJNv3KgD/IMG-20250417-112226.jpg" alt="Capybara">
+    <img id="capybara" src="https://i.postimg.cc/HkVx1nvV/IMG-20250417-112226.jpg" alt="Capybara">
   </div>
   <p id="score">Score: 0/5</p>
   <div id="winScreen">
