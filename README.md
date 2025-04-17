@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy 16 Months of Love 😘!</title>
+  <title>Happy 16 Months!</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -86,10 +87,10 @@
   </style>
 </head>
 <body>
-  <h1>Happy 16 Months, LUVV! 🦫</h1>
+  <h1>Happy 16 Months, Luvv! 🦫</h1>
   <p>Play to catch the capybara and win a surprise!</p>
   <div id="gameArea">
-    <img id="capybara" src="https://i.postimg.cc/HkVx1nvV/IMG-20250417-112226.jpg" alt="Capybara">
+    <img id="capybara" src="https://i.postimg.cc/PJNv3KgD/IMG-20250417-112226.jpg" alt="Capybara">
   </div>
   <p id="score">Score: 0/5</p>
   <div id="winScreen">
@@ -111,9 +112,9 @@
     <div class="gift-box" onclick="showGift(1)">❤️</div>
     <div class="gift-box" onclick="showGift(2)">❤️</div>
     <div class="gift-box" onclick="showGift(3)">❤️</div>
-    <p id="gift1" style="display: none;">More than 3 Rounds of Bembang - A fun, playful night with extra rounds of our favorite Bembang—let’s make it unforgettable!</p>
-    <p id="gift2" style="display: none;">Home Date - A cozy movie night at home with snacks and cuddles—perfect for us!</p>
-    <p id="gift3" style="display: none;">Outside Date - A romantic walk in the park or a budget-friendly café date—let’s make memories!</p>
+    <p id="gift1" style="display: none;">More than 3 Rounds of Bembang</p>
+    <p id="gift2" style="display: none;">Home Date</p>
+    <p id="gift3" style="display: none;">Outside Date</p>
   </div>
   <div id="finalScreen">
     <h2>Congratulations! Loving you always 😘</h2>
